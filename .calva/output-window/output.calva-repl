@@ -1,0 +1,188 @@
+; This is the Calva evaluation results output window.
+; TIPS: The keyboard shortcut `ctrl+alt+c o` shows and focuses this window
+;   when connected to a REPL session.
+; Please see https://calva.io/output/ for more info.
+; Happy coding! ♥️
+
+; Connecting ...
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS: 
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉> 
+nil
+clj꞉contact-book.core꞉> 
+#'contact-book.core/server
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:12:4).
+; No such var: muuntaja/format-negotiate-midddleware
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:12:4).
+; No such var: muuntaja/format-negotiate-midddleware
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:12:4).
+; No such var: muuntaja/format-reponse-middleware
+clj꞉contact-book.core꞉> 
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; org.httpkit.server
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; reitit.ring
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; reitit.ring.middleware.exception
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; reitit.ring.middleware.muuntaja
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; muuntaja.core
+; Syntax error reading source at (REPL:6:35).
+; Unmatched delimiter: )
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:12:4).
+; No such var: muuntaja/format-reponse-middleware
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:12:4).
+; No such var: muuntaja/format-reponse-middleware
+clj꞉contact-book.core꞉> 
+; Execution error (IllegalAccessError) at contact-book.core/eval12221$loading (REPL:1).
+; format-reponse-middleware does not exist
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; org.httpkit.server
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; reitit.ring
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; reitit.ring.middleware.exception
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; reitit.ring.middleware.muuntaja
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; muuntaja.core
+; Syntax error reading source at (REPL:8:35).
+; Unmatched delimiter: )
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; Can't take value of a macro: #'clojure.core/ns
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; contact-book.core
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:2:3).
+; org.httpkit.server
+; Syntax error reading source at (REPL:8:36).
+; Unmatched delimiter: )
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+; Syntax error reading source at (REPL:23:53).
+; Map literal must contain an even number of forms
+clj꞉contact-book.core꞉> 
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:0:0).
+; ntact-book.core
+; Syntax error (ClassNotFoundException) compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:2:3).
+; org.httpkit.server
+; Syntax error reading source at (REPL:8:36).
+; Unmatched delimiter: )
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+#'contact-book.core/app
+clj꞉contact-book.core꞉> 
+#'contact-book.core/-main
+clj꞉contact-book.core꞉> 
+#'contact-book.core/stop-server
+clj꞉contact-book.core꞉> 
+#'contact-book.core/stop-server
+clj꞉contact-book.core꞉> 
+; Syntax error compiling at (c:\Dheeraj\contact_book\src\contact_book\core.clj:47:3).
+; Unable to resolve symbol: restart-server in this context
+clj꞉contact-book.core꞉> 
+#'contact-book.core/restart-server
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+{:status 404, :body {:hello "Route not Found"}}
+clj꞉contact-book.core꞉> 
+Server Started
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+{:status 404, :body {:hello "Route not Found"}}
+clj꞉contact-book.core꞉> 
+#'contact-book.core/stop-server
+clj꞉contact-book.core꞉> 
+#'contact-book.core/restart-server
+clj꞉contact-book.core꞉> 
+Server Started
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+{:status 404, :body {:hello "Route not Found"}}
+clj꞉contact-book.core꞉> 
+{:status 200, :body "Success"}
+clj꞉contact-book.core꞉> 
+{:status 301, :headers {"Location" "/api"}, :body ""}
+clj꞉contact-book.core꞉> 
+#'contact-book.core/app
+clj꞉contact-book.core꞉> 
+Server Started
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+{:status 301, :headers {"Location" "/api"}, :body ""}
+clj꞉contact-book.core꞉> 
+#'contact-book.core/app
+clj꞉contact-book.core꞉> 
+Server Started
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+{:status 301, :headers {"Location" "/api"}, :body ""}
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+#'contact-book.core/stop-server
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+#'contact-book.core/restart-server
+clj꞉contact-book.core꞉> 
+#'contact-book.core/restart-server
+clj꞉contact-book.core꞉> 
+#function[clojure.lang.AFunction/1]
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+{:status 301, :headers {"Location" "/api"}, :body ""}
+clj꞉contact-book.core꞉> 
+#'contact-book.core/restart-server
+clj꞉contact-book.core꞉> 
+#'contact-book.core/restart-server
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+nil
+clj꞉contact-book.core꞉> 
+{:status 301, :headers {"Location" "/api"}, :body ""}
+clj꞉contact-book.core꞉> 
+; nREPL Connection was closed
